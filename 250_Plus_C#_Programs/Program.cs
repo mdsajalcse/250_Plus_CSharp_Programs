@@ -29,6 +29,11 @@ long numberL = 123456789;
 Console.WriteLine("The long Value is::" + numberL);
 Console.WriteLine("Long Size is::" + sizeof(long));
 
+bool numberR = false;
+Console.WriteLine("Boolean value is::" + numberR);
+Console.WriteLine("Size of Boolean is::" + sizeof(bool));
+
+
 
 
 
